@@ -32,7 +32,7 @@ If you successfully complete the practice:
 ---
 
 ## 📌 **Connect with Me**  
-- **LinkedIn**: [Kastro Kiran](https://www.linkedin.com/in/janindupremathilaka)  
+- **LinkedIn**:(https://www.linkedin.com/in/janindupremathilaka)   
 ---
 
 
