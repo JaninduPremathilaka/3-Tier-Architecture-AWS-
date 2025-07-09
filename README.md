@@ -13,6 +13,21 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 - **EC2**  
 - **RDS**  
 - **Route 53**
+- **Cloudfront**
+- **WAF**
+- **Load Balancers-ALB**
+- **CloudWatch**
+- **Grafana**
+
+  
+## 🚀 **Revamped and Design Network Architecture: I used below Services and Technologies**
+
+- **GNS3 - for Stimulation
+- **Cisco Switches & Routers IOS**
+- **Proper VLANS**
+- **HSRP for redundancy**
+- **Dual ISP**
+- **Kaspersky EDR solution**
 
 ---
 
@@ -23,17 +38,9 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 
 ---
 
-## ❤️ **Kind Request**
-
-If you successfully complete the practice:  
-✨ Kindly share your experience and views on LinkedIn. Don't forget to tag me!  
-💡 Your feedback boosts my enthusiasm to create more DevOps and AWS tutorials.
-
----
-
 ## 📌 **Connect with Me**  
-- **LinkedIn**:(https://www.linkedin.com/in/janindupremathilaka)   
+- **LinkedIn**:(https://www.linkedin.com/in/janindupremathilaka)
+   
 ---
 
 
-🎉 **Happy Learning!**
