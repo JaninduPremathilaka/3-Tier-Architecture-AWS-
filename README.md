@@ -30,7 +30,7 @@ This project demonstrates a secure, scalable, and highly available 3-tier archit
 
 ---
 
-## 📸 AWS Infrastructure Setup (Screenshots 1–14)
+## 📸 AWS Infrastructure Setup 
 
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/1%20VPC.png?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/2%20Subnets.png?raw=true" width="800"/>
@@ -50,7 +50,7 @@ This project demonstrates a secure, scalable, and highly available 3-tier archit
 
 ---
 
-## 📊 Monitoring with CloudWatch & Grafana (Screenshots 15, 21, 24–27)
+## 📊 Monitoring with CloudWatch & Grafana 
 
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/15%20CloudWatch%20Enbaled.png?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/21%20CloudWatch%20SNS.png?raw=true" width="800"/>
@@ -61,7 +61,7 @@ This project demonstrates a secure, scalable, and highly available 3-tier archit
 
 ---
 
-## 📣 S3 Hosting, SNS Configuration & DNS Verification (Domain Access) (Screenshots 16, 17, 18, 19, 20, 22, 23, 28–30)
+## 📣 S3 Hosting, SNS Configuration & DNS Verification (Domain Access) 
 
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/16%20S3.jpg?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/17%20EC2%20Runing%20Instances.jpg?raw=true" width="800"/>
@@ -94,7 +94,7 @@ This project demonstrates a secure, scalable, and highly available 3-tier archit
 
 ---
 
-## 📸 Certificate & Check Target Group Health (Screenshots 31–33)
+## 📸 Certificate & Check Target Group Health 
 
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/31%20View%20Web%20Certificate%20using%20Kaspersky%20EDR%20installed%20PC.png?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/32%20Checking%20Appserver%20Targert%20group%20Health.png?raw=true" width="800"/>
