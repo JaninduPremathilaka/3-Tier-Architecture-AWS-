@@ -1,60 +1,58 @@
-# Welcome Learners! 👋
+# Welcome, Learners!, I'm Janindu Premathilaka👋
 
-**Discover the power of 3-Tier Architecture!**  
-A 3-Tier Architecture app separates the presentation, application, and database layers, enhancing scalability, manageability, and security. This project showcases a robust AWS implementation of the architecture.
+**Discover the power of 3-Tier Architecture on AWS!**  
+This project demonstrates a secure, scalable, and highly available 3-tier architecture deployed on Amazon Web Services (AWS). It separates the presentation, application, and database layers—improving manageability, performance, and security. Developed as part of my final year studies at **London Metropolitan University**.
 
 ---
-![image2](https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/3%20Tier%20Architecture.png)
 
-## 🚀 **In this Project, I have used the following AWS services:**
+![3-Tier Architecture](https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/3%20Tier%20Architecture.png)
+
+## 🚀 AWS Services Used
 
 - **VPC**  
 - **S3**  
 - **IAM**  
 - **EC2**  
 - **RDS**  
-- **Route 53**
-- **Cloudfront**
-- **WAF**
-- **Load Balancers-ALB**
-- **CloudWatch**
-- **Grafana**
+- **Route 53**  
+- **CloudFront**  
+- **WAF**  
+- **Application Load Balancer (ALB)**  
+- **CloudWatch**  
+- **Grafana**  
 
-
-- > Designed and implemented a secure, highly available AWS cloud architecture for Biophilia Pvt Ltd, leveraging multi-AZ deployment, Auto Scaling, and Application Load Balancers to achieve 99.99% uptime for web applications.
-- > Monitored system health using CloudWatch and Grafana, enabling proactive issue resolution and cost optimization.
-
-
----
-
-  
-## 🚀 **Revamped and Design Network Architecture: I used below Services and Technologies**
-
-- **GNS3**
-- **Cisco Switches & Routers IOS**
-- **Proper VLANS**
-- **HSRP for redundancy**
-- **Dual ISP**
-- **Kaspersky EDR solution**
-- **Fortinet Firewall IOS**
-
-
-
-- > Enhanced security via zero-trust principles: Segmented networks using VLANs, configured firewalls (Fortinet), and deployed Kaspersky Endpoint Security Cloud Pro for threat detection/response, reducing attack surface by 80%.
-
+✅ **Highlights**  
+- Designed and implemented a secure, highly available AWS architecture for *Biophilia Pvt Ltd*, leveraging multi-AZ deployment, Auto Scaling, and ALBs to ensure 99.99% uptime.  
+- Monitored system health using **CloudWatch** and **Grafana**, enabling proactive issue resolution and cost optimization.
 
 ---
 
-## 🛠️ **Getting Started**
+## 🛡️ Revamped Network Architecture – On-Premise & Hybrid Focus
 
-1. **Fork and Clone** the repository to get started.  
-2. ⭐ Star the repository to show your support!
+Tools & Technologies Used:
+- **GNS3**  
+- **Cisco Routers & Switches (IOS)**  
+- **VLANs**  
+- **HSRP (Hot Standby Router Protocol)**  
+- **Dual ISP Connectivity**  
+- **Fortinet Firewall (FortiOS)**  
+- **Kaspersky EDR Solution**
+
+✅ **Security Enhancements**  
+- Applied zero-trust principles: segmented networks using VLANs, deployed Fortinet firewalls, and implemented Kaspersky Endpoint Security Cloud Pro.  
+- Reduced attack surface by 80% through layered threat detection and endpoint protection.
 
 ---
 
-## 📌 **Connect with Me**  
-- **LinkedIn**:(https://www.linkedin.com/in/janindupremathilaka)
-   
+## 🛠️ Getting Started
+
+1. **Fork** and **clone** this repository to your local environment.  
+2. ⭐ **Star** the repository to show your support and follow updates.
+
 ---
 
+## 📌 Connect with Me
 
+- 💼 [LinkedIn – Janindu Premathilaka](https://www.linkedin.com/in/janindupremathilaka)
+
+---
