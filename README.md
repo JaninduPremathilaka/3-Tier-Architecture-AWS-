@@ -66,7 +66,7 @@ This project demonstrates a secure, scalable, and highly available 3-tier archit
 
 ---
 
-## 📣 S3 files, SNS Setup & Check DNS Propagation with CloudFront(Screenshots 16, 17, 18, 19, 20, 22, 23, 28–30)
+## 📣 S3 Hosting, SNS Configuration & DNS Verification (Domain Access) (Screenshots 16, 17, 18, 19, 20, 22, 23, 28–30)
 
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/16%20S3.jpg?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/17%20EC2%20Runing%20Instances.jpg?raw=true" width="800"/>
