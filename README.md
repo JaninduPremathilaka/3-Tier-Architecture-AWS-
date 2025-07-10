@@ -32,7 +32,7 @@ This project demonstrates a secure, scalable, and highly available 3-tier archit
 
 ## 📸 AWS Infrastructure Setup (Screenshots 1–10)
 
-<img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/1%20VPC.png?raw=true" width="600"/>
+<img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/1%20VPC.png?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/2%20Subnets.png?raw=true" width="600"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/3%20Instances.png?raw=true" width="600"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/4%20Target%20Groups.png?raw=true" width="600"/>
