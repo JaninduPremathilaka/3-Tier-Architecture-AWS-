@@ -30,7 +30,7 @@ This project demonstrates a secure, scalable, and highly available 3-tier archit
 
 ---
 
-## 📸 AWS Infrastructure Setup (Screenshots 1–10)
+## 📸 AWS Infrastructure Setup (Screenshots 1–14)
 
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/1%20VPC.png?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/2%20Subnets.png?raw=true" width="800"/>
@@ -42,11 +42,6 @@ This project demonstrates a secure, scalable, and highly available 3-tier archit
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/8%20Security%20groups.png?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/9%20RDS.jpg?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/10%20Route%2053%20Setup.png?raw=true" width="800"/>
-
----
-
-## 📸 Cloud Delivery & Security Setup (Screenshots 11–15)
-
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/11%20CloudFront%201.png?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/12%20CloudFront%20Distribution.png?raw=true" width="800"/>
 <img src="https://github.com/JaninduPremathilaka/3-Tier-Architecture-AWS-/blob/main/Screenshots/13%20Auto%20Scalling%20Groups%20EC2.png?raw=true" width="800"/>
